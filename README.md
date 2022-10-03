@@ -82,32 +82,32 @@ Exercises will be completed in Jupyter notebooks. Jupyter notebooks are interact
 
 ### Introduction
 
-[Slides 1](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/master/afew-present-1.ipynb)
+[Slides 1](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/main/afew-present-1.ipynb)
 
-[Notebook 1](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/master/afew-notebook-1.ipynb)
+[Notebook 1](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/main/afew-notebook-1.ipynb)
 
 
 ### Renewable resources and population dynamics
 
-[Slides 2](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/master/afew-present-2.ipynb)
+[Slides 2](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/main/afew-present-2.ipynb)
 
-[Notebook 2](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/master/afew-notebook-2.ipynb) 
-[Solutions](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/master/afew-notebook-2-solutions.ipynb)
+[Notebook 2](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/main/afew-notebook-2.ipynb) 
+[Solutions](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/main/afew-notebook-2-solutions.ipynb)
 
-[Slides 3](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/master/afew-present-3.ipynb)
+[Slides 3](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/main/afew-present-3.ipynb)
 
-[Notebook 3](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/master/afew-notebook-3.ipynb)
+[Notebook 3](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/main/afew-notebook-3.ipynb)
 
-[Slides 4](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/master/afew-present-4.ipynb)
+[Slides 4](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/main/afew-present-4.ipynb)
 
 ## Week 2
 
 ### Static Open Access Model
 
 
-[Slides 5](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/master/afew-present-5.ipynb) Gordon-Schaefer model
+[Slides 5](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/main/afew-present-5.ipynb) Gordon-Schaefer model
 
-[Slides 6](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/master/afew-present-6.ipynb) Empirical bio-economic modelling
+[Slides 6](https://nbviewer.jupyter.org/github/fdd-eiu/afew/blob/main/afew-present-6.ipynb) Empirical bio-economic modelling
 
 - Some alternative models
 
