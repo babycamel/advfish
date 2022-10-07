@@ -53,7 +53,7 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 - Anthony C. Fisher. [Lecture notes on resource and environmental economics](https://www.amazon.com/Resource-Environmental-Economics-Non-Market-Resources-ebook/dp/B08BXKVJM3), Springer 1st Edition, 2020.
 
-- Ana Espinola-Arredondo, Felix Muñoz-Garcia *[Common pool resources](https://www.amazon.com/Common-Pool-Resources-Inefficiencies-Information-ebook/dp/B095KFF764/)*
+- Ana Espinola-Arredondo, Felix Muñoz-Garcia *[Common pool resources](https://www.amazon.com/Common-Pool-Resources-Inefficiencies-Information-ebook/dp/B095KFF764/)* Cambridge University Press (October 21, 2021).
 
 - Lee G. Anderson. *[The Economics of Fisheries Management](https://www.amazon.com/Economics-Fisheries-Management-Lee-Anderson/dp/1930665989/)*. Revised and enlarged edition.the John Hopkins University Press, 1977/1986/2004.
 
