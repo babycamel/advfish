@@ -76,6 +76,8 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 -  P.A. Neher. *Natural resource economics: Conservation and exploitation*. Cambridge University Press, 1990.
 
+- M. Majumdar *[Sustainability And Resources: Theoretical Issues In Dynamic Economics](https://www.amazon.com/gp/product/B08534FTYG)* World Scientific 2020. Some chapters at intermediate level.
+
 - M. Mangel. *Decision and control in uncertain resource systems*, Academic Press, 1985. Adavanced text uses stochastic methods
 
 - A. Xepapadeas *[Advanced Mathematical Methods in Environmental and Resource Economics](https://www.amazon.com/gp/product/B0BL6YNLNB/)* World Scientific, 2023. Advanced text covers a variety of methods.
