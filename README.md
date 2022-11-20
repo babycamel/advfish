@@ -43,6 +43,8 @@ is a good reference. It uses Wolfram Language (Mathematica) for the exercises wh
 
 Rognvaldur Hannesson *[The economics of fishing](https://www.amazon.com/gp/product/B08SR3N3KY/)*, Agenda Publishing; 1st edition (January 21, 2021).
 
+David Whitmarsh *[Economic management of marine living resources:A practical introduction](https://www.amazon.com/gp/product/B008FZ0O7Q/)* Earthscan 2011. 
+
 The material covered will draw on a variety of sources inlcuding the following books and papers that will be referred to during the workshop.
 
 *Intermediate texts* (upper level undergraduate)
@@ -74,7 +76,9 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 -  P.A. Neher. *Natural resource economics: Conservation and exploitation*. Cambridge University Press, 1990.
 
-- M. Mangel. *Decision and control in uncertain resource systems*, Academic Press, 1985.
+- M. Mangel. *Decision and control in uncertain resource systems*, Academic Press, 1985. Adavanced text uses stochastic methods
+
+- A. Xepapadeas *[Advanced Mathematical Methods in Environmental and Resource Economics](https://www.amazon.com/gp/product/B0BL6YNLNB/)* World Scientific, 2023. Advanced text covers a variety of methods.
 
 ## Exercises
 
