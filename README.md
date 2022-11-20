@@ -39,7 +39,7 @@ Some Python links
 ## References 
 
 Arne Eide's [Introduction to Fisheries Economics](https://figshare.com/articles/Introduction_to_Fisheries_Economics/3784821#)
-is a good reference. It uses Wolfram Language (Mathematica) for the exercises which is an alternative but less on-line support and help available. So we will use Python instead. [Google trends](https://trends.google.com/trends/explore?cat=174&date=all&q=%2Fm%2F05z1_,Mathematica,Excel,R,Julia%20programming%20language) partially answers why Python is a good choice.
+is a good reference. It uses Wolfram Language (Mathematica) for the exercises which is an alternative but less online support and help available. So we will use Python instead. [Google trends](https://trends.google.com/trends/explore?cat=174&date=all&q=%2Fm%2F05z1_,Mathematica,Excel,R,Julia%20programming%20language) partially answers why Python is a good choice.
 
 Rognvaldur Hannesson *[The economics of fishing](https://www.amazon.com/gp/product/B08SR3N3KY/)*, Agenda Publishing; 1st edition (January 21, 2021). Easy reading general overview for interested readers.
 
