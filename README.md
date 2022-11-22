@@ -26,7 +26,7 @@ The approach we take is informed by a number of ideas, the first is that the pra
 
 ## Background
 
-I recommend Preston McAfee's [Introduction to economic analysis](https://authors.library.caltech.edu/25025/2/MCAiea200.pdf)) as background reading on general economics. Chapter 7 section 6 is on fisheries.
+I recommend Preston McAfee's [Introduction to economic analysis](https://authors.library.caltech.edu/25025/2/MCAiea200.pdf) as background reading on general economics. Chapter 6 section 6 is on fisheries.
 
 [National and regional fisheries economics workshop interactive tutorials](https://ffa-econ.shinyapps.io/econworkshop/) are also useful background.
 
