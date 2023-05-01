@@ -13,6 +13,8 @@ You will need administrator rights on your computer to do this.
 
 Also have a look at [Google Collaboratory](https://colab.research.google.com/) (you will need a gmail account to access this).
 
+Exercise access will be enabled prior to the workshop.
+
 ## Day 1
 
 - Review of [Notes on the Gordon-Schafer Model](https://github.com/fdd-eiu/afew/blob/main/notes-gordon-schaefer.pdf) (Morning)
