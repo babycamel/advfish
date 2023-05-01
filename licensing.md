@@ -1,7 +1,7 @@
 # The economic of fisheries licensing workshop 
 ## June 5-9 2023
 
-Breaks for morning (10:30am) and afternoon tea (3:30pm) and lunch (12:30pm) will occur
+Breaks for morning (11:00am) and afternoon tea (3:30pm) and lunch (12:30pm) will occur
 
 Software set-up:
 
