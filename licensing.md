@@ -16,6 +16,7 @@ Breaks for morning and afternoon tea and lunch will occur
 ## Day 3
 
 - N country model presentation
+- Some fair division allocation and claims rules
 - Discussion
 
 ## Day 4 Empirical estimation of the N-country model and policy
