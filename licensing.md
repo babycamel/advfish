@@ -7,11 +7,11 @@ Software set-up:
 
 We will be using Jupyter notebooks and Python.
 
-The first-step is to click on the link at right and install Anaconda
+The first-step is to click on the link at right and install if you haven't already done so [Anaconda](https://www.anaconda.com/download/)
 
-Download and install the Python 3.7 version. You will need administrator rights on your computer to do this.
+You will need administrator rights on your computer to do this.
 
-Also have a look at Google Collaboratory (you will need a gmail account to access this).
+Also have a look at [Google Collaboratory](https://colab.research.google.com/) (you will need a gmail account to access this).
 
 ## Day 1
 
