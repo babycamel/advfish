@@ -8,7 +8,8 @@ Breaks for morning and afternoon tea and lunch will occur
 - Review of [Notes on the Gordon-Schafer Model](https://github.com/fdd-eiu/afew/blob/main/notes-gordon-schaefer.pdf) (Morning)
 - Empirical national bio-economic models (Afternoon)
 
-- [Exercise 1](https://colab.research.google.com/drive/1nAZzOBbcJJpLnCGZwRA_QY-DtRvNYxLo?usp=sharing)
+- Group 1: [Exercise 1](https://colab.research.google.com/drive/1nAZzOBbcJJpLnCGZwRA_QY-DtRvNYxLo?usp=sharing)
+- Group 2: [Exercise 1](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-notebook-1.ipynb)
 - [Exercise 2](https://colab.research.google.com/drive/1Whcl_O0Wf4eFO94iRNn5VJbzNF89MlUb?usp=sharing)
 
 ## Day 2
