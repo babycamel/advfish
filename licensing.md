@@ -8,6 +8,8 @@ Breaks for morning and afternoon tea and lunch will occur
 - Review of [Notes on the Gordon-Schafer Model](https://github.com/fdd-eiu/afew/blob/main/notes-gordon-schaefer.pdf) (Morning)
 - Empirical national bio-economic models (Afternoon)
 
+- [Exercise 1](https://colab.research.google.com/drive/1nAZzOBbcJJpLnCGZwRA_QY-DtRvNYxLo?usp=sharing)
+
 ## Day 2
 
 - Coastal state vs distant water fleet licensing model (Morning)
