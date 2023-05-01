@@ -1,7 +1,17 @@
 # The economic of fisheries licensing workshop 
 ## June 5-9 2023
 
-Breaks for morning and afternoon tea and lunch will occur
+Breaks for morning (10:30am) and afternoon tea (3:30pm) and lunch (12:30pm) will occur
+
+Software set-up:
+
+We will be using Jupyter notebooks and Python.
+
+The first-step is to click on the link at right and install Anaconda
+
+Download and install the Python 3.7 version. You will need administrator rights on your computer to do this.
+
+Also have a look at Google Collaboratory (you will need a gmail account to access this).
 
 ## Day 1
 
@@ -19,7 +29,7 @@ Breaks for morning and afternoon tea and lunch will occur
 
 ## Day 3
 
-- N country model presentation
+- N-country model presentation
 - Some fair division allocation and claims rules
 - Discussion
 
