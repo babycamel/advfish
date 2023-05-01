@@ -1,4 +1,4 @@
-# The economic of fisheries licensing workshp 
+# The economic of fisheries licensing workshop 
 ## June 5-9 2023
 
 Breaks for morning and afternoon tea and lunch will occur
