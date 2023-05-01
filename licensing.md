@@ -5,7 +5,7 @@ Breaks for morning and afternoon tea and lunch will occur
 
 ## Day 1
 
-- Review of [Notes on the Gordon-Schafer Model]() (Morning)
+- Review of [Notes on the Gordon-Schafer Model](https://github.com/fdd-eiu/afew/blob/main/notes-gordon-schaefer.pdf) (Morning)
 - Empirical nationakl bio-economic models (Afternoon)
 
 ## Day 2
