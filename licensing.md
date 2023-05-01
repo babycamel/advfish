@@ -9,6 +9,7 @@ Breaks for morning and afternoon tea and lunch will occur
 - Empirical national bio-economic models (Afternoon)
 
 - [Exercise 1](https://colab.research.google.com/drive/1nAZzOBbcJJpLnCGZwRA_QY-DtRvNYxLo?usp=sharing)
+- [Exercise 2](https://colab.research.google.com/drive/1Whcl_O0Wf4eFO94iRNn5VJbzNF89MlUb?usp=sharing)
 
 ## Day 2
 
