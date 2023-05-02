@@ -43,16 +43,21 @@ Exercise access will be enabled prior to the workshop.
 ## Day 3 (Wednesday)
 
 - N-country model presentation (Morning)
+- Derivation of demand for licenses
+- Determination of the optimal license fee
 - Some fair division allocation and claims rules (Afternoon)
 - Discussion (Afternoon)
 
 ## Day 4 Empirical estimation of the N-country model and policy (Thursday)
 
 - Catch-effort estimation at the regional level.
+- National level implications of the regional model
 - Discussion of policy results, consequences and problems
 
 ## Day 5 Own projects Workshop (Friday)
 
+- Exercise: Preparation of briefs on economic considerations for bilateral fishing access
+arrangements.
 - Finishing off what you haven't understood and discussion.
 - Wrap-up
 
