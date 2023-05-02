@@ -15,6 +15,13 @@ Also have a look at [Google Collaboratory](https://colab.research.google.com/) (
 
 Exercise access will be enabled prior to the workshop.
 
+
+## Additonal resources
+
+[SymPy tutorial](https://docs.sympy.org/latest/tutorials/intro-tutorial/index.html)
+[W3Schools Python tutorial](https://www.w3schools.com/python/python_intro.asp)
+[W3Schools SQL tutorial](https://www.w3schools.com/sql/default.asp)
+
 ## Day 1
 
 ### Morning
