@@ -48,8 +48,7 @@ Exercise access will be enabled prior to the workshop.
 
 ## Day 4 Empirical estimation of the N-country model and policy (Thursday)
 
-- Basically catch-effort estimation at the regional level.
-
+- Catch-effort estimation at the regional level.
 - Discussion of policy results, consequences and problems
 
 ## Day 5 Own projects Workshop (Friday)
