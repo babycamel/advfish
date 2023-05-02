@@ -22,7 +22,13 @@ Exercise access will be enabled prior to the workshop.
 
 [W3Schools Python tutorial](https://www.w3schools.com/python/python_intro.asp)
 
+[10 minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+
 [W3Schools SQL tutorial](https://www.w3schools.com/sql/default.asp)
+
+[Statsmodels](https://www.statsmodels.org/stable/index.html)
+
+[NumPy](https://numpy.org/doc/stable/user/absolute_beginners.html)
 
 ## Day 1
 
