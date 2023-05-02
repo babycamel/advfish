@@ -36,9 +36,9 @@ Exercise access will be enabled prior to the workshop.
 
 ## Day 2 (Tuesday)
 
+- Background on the problem and survey of literature
 - Coastal state vs distant water fleet licensing model (Morning)
 - Practical exercises and discussion (Afternoon)
-- 
 
 ## Day 3 (Wednesday)
 
