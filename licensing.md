@@ -34,25 +34,32 @@ Exercise access will be enabled prior to the workshop.
 
 ### Morning
 
+
+#### Warm-up exercise
+
+- [Preliminary exercise](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-notebook-1.ipynb)
+
+#### Exercises on the Gordon-Scahefer Model
+
 - Review of [Notes on the Gordon-Schafer Model](https://github.com/fdd-eiu/afew/blob/main/notes-gordon-schaefer.pdf) (Morning)
-- Group 1: [Exercise 1](https://colab.research.google.com/drive/1nAZzOBbcJJpLnCGZwRA_QY-DtRvNYxLo?usp=sharing)
-- Group 2: [Exercise 1](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-notebook-1.ipynb)
+- [Exercise 1](https://colab.research.google.com/drive/1nAZzOBbcJJpLnCGZwRA_QY-DtRvNYxLo?usp=sharing)
 - [Exercise 2](https://colab.research.google.com/drive/1Whcl_O0Wf4eFO94iRNn5VJbzNF89MlUb?usp=sharing)
-- Exercise 3
-- Exercise 4
-- Exercise 5
-- Exercise 6
-- Exercise 7
+- [Exercise 3](https://colab.research.google.com/drive/1XFVAmHBVZ9D8J5HSpZlX1aMfbd8_9m2K?usp=sharing)
+- [Exercise 4](https://colab.research.google.com/drive/1o9ybRsMI3QileGNXfwPIn-mtWpw5c1P6?usp=sharing)
+- [Exercise 5](https://colab.research.google.com/drive/1kTDbj_NNjw9atLTy9TocGM1lqpDZlu-3?usp=sharing)
+- [Exercise 6](https://colab.research.google.com/drive/1SwBJviqRxWfGgsNPZVWtqm7zRNFkRXKY?usp=sharing)
+- [Exercise 7](https://colab.research.google.com/drive/1aeVTzicRzOY6WrJ8fhEyIq-Y_tWzX6lN?usp=sharing)
 
 ### Afternoon
 
 - Empirical national bio-economic models (Afternoon)
-- Exercise 8
+- [Exercise 8](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-present-6.ipynb)
+-  Additonal analyses that can be performed 
 
 ## Day 2 (Tuesday)
 
-- Background on the problem and survey of literature
-- Coastal state vs distant water fleet licensing model (Morning)
+- Background on the problem and survey of literature (Presentation and discussion)
+- Coastal state vs distant water fleet licensing model (Morning - Presentation)
 - Practical exercises and discussion (Afternoon)
 
 ## Day 3 (Wednesday)
