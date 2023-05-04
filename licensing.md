@@ -37,7 +37,8 @@ Exercise access will be enabled prior to the workshop.
 
 #### Warm-up exercise
 
-- [Preliminary exercise](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-notebook-1.ipynb)
+- [Preliminary exercise 1](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-notebook-1.ipynb)
+- [Preliminary exercise 2](https://pandas.pydata.org/docs/user_guide/10min.html)
 
 #### Mini-Exercises on the Gordon-Scahefer Model
 
