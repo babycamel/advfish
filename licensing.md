@@ -39,7 +39,7 @@ Exercise access will be enabled prior to the workshop.
 
 - [Preliminary exercise](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-notebook-1.ipynb)
 
-#### Exercises on the Gordon-Scahefer Model
+#### Mini-Exercises on the Gordon-Scahefer Model
 
 - Review of [Notes on the Gordon-Schafer Model](https://github.com/fdd-eiu/afew/blob/main/notes-gordon-schaefer.pdf) (Morning)
 - [Exercise 1](https://colab.research.google.com/drive/1nAZzOBbcJJpLnCGZwRA_QY-DtRvNYxLo?usp=sharing)
