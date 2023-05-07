@@ -49,7 +49,7 @@ Exercise access will be enabled prior to the workshop.
 - [Exercise 4](https://colab.research.google.com/drive/1vhlEJmDh6iil8_qX-YKJaTyou_nvqYCA?usp=sharing) 
 - [Exercise 5](https://colab.research.google.com/drive/1v40yRbEMUQJV74NonGlidI7eCFhyeCPd?usp=sharing)
 - [Exercise 6](https://colab.research.google.com/drive/18erLNDS33FJfzC_Szyjnguq-mC7UhAco?usp=sharing)
-- [Exercise 7](https://colab.research.google.com/drive/1aeVTzicRzOY6WrJ8fhEyIq-Y_tWzX6lN?usp=sharing)
+- [Exercise 7](https://colab.research.google.com/drive/1YqvQg6Z6FL0gQrSApecsZPyUWZhG6oVD?usp=sharing)
 
 ### Afternoon
 
