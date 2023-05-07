@@ -55,11 +55,11 @@ Exercise access will be enabled prior to the workshop.
 
 - Empirical national bio-economic models (Afternoon)
 - [Exercise 8](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-present-6.ipynb)
--  Additonal analyses that can be performed (sensitivity analysis, gender impacts)
+- Additonal analyses that can be performed (sensitivity analysis, gender impacts)
 
 ## Day 2 (Tuesday)
 
-- Background on the problem and survey of literature (Presentation and discussion)
+- Background on the problem and [survey of literature](https://github.com/fdd-eiu/afew/blob/main/presentation-Literature.pdf) (Presentation and discussion)
 - Morning tea
 - Coastal state vs distant water fleet licensing model (Presentation)
 -  Lunch
