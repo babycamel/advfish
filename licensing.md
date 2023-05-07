@@ -46,7 +46,7 @@ Exercise access will be enabled prior to the workshop.
 - [Exercise 1](https://colab.research.google.com/drive/1nAZzOBbcJJpLnCGZwRA_QY-DtRvNYxLo?usp=sharing)
 - [Exercise 2](https://colab.research.google.com/drive/1Whcl_O0Wf4eFO94iRNn5VJbzNF89MlUb?usp=sharing)
 - [Exercise 3](https://colab.research.google.com/drive/1BBquV0azxFjWxlc5DV6yVQ6_K-OJKKDd?usp=sharing)
-- [Exercise 4](https://colab.research.google.com/drive/1o9ybRsMI3QileGNXfwPIn-mtWpw5c1P6?usp=sharing)
+- [Exercise 4](https://colab.research.google.com/drive/1vhlEJmDh6iil8_qX-YKJaTyou_nvqYCA?usp=sharing) 
 - [Exercise 5](https://colab.research.google.com/drive/1kTDbj_NNjw9atLTy9TocGM1lqpDZlu-3?usp=sharing)
 - [Exercise 6](https://colab.research.google.com/drive/1SwBJviqRxWfGgsNPZVWtqm7zRNFkRXKY?usp=sharing)
 - [Exercise 7](https://colab.research.google.com/drive/1aeVTzicRzOY6WrJ8fhEyIq-Y_tWzX6lN?usp=sharing)
