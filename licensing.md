@@ -70,7 +70,7 @@ Exercise access will be enabled prior to the workshop.
 - N-country model presentation (Morning)
 - Derivation of demand for licenses
 - Determination of the optimal license fee
-- Some fair division allocation and claims rules (Afternoon)
+- Some fair division: allocation and claims rules (Afternoon)
 - Discussion (Afternoon)
 
 ## Day 4 Empirical estimation of the N-country model and policy (Thursday)
