@@ -40,6 +40,9 @@ Exercise access will be enabled prior to the workshop.
 - [Preliminary exercise 1](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-notebook-1.ipynb)
 - [Preliminary exercise 2](https://pandas.pydata.org/docs/user_guide/10min.html)
 
+- Morning coffee
+
+
 #### Mini-Exercises on the Gordon-Scahefer Model
 
 - Review of [Notes on the Gordon-Schafer Model](https://github.com/fdd-eiu/afew/blob/main/notes-gordon-schaefer.pdf) (Morning)
@@ -51,19 +54,24 @@ Exercise access will be enabled prior to the workshop.
 - [Exercise 6](https://colab.research.google.com/drive/18erLNDS33FJfzC_Szyjnguq-mC7UhAco?usp=sharing)
 - [Exercise 7](https://colab.research.google.com/drive/1YqvQg6Z6FL0gQrSApecsZPyUWZhG6oVD?usp=sharing)
 
+- Lunch
+
 ### Afternoon
 
 - Empirical national bio-economic models (Afternoon)
 - [Exercise 8](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-present-6.ipynb)
+- Coffee break
 - Additonal analyses that can be performed (sensitivity analysis, gender impacts)
 
 ## Day 2 (Tuesday)
 
 - Background on the problem and [survey of literature](https://github.com/fdd-eiu/afew/blob/main/presentation-Literature.pdf) (Presentation and discussion)
-- Morning tea
+- Coffee break
 - Coastal state vs distant water fleet licensing model (Presentation)
 -  Lunch
 - Practical exercises and discussion (Afternoon)
+- Coffee break
+- Practical exercises and discussion (Afternoon) continued.
 
 ## Day 3 (Wednesday)
 
@@ -72,6 +80,8 @@ Exercise access will be enabled prior to the workshop.
 - Determination of the optimal license fee
 - Some fair division: allocation and claims rules (Afternoon)
 - Discussion (Afternoon)
+
+
 
 ## Day 4 Empirical estimation of the N-country model and policy (Thursday)
 
