@@ -1,6 +1,8 @@
 # The economic of fisheries licensing workshop 
 ## June 5-9 2023
 
+This is the thrid in a series of Advanced workshops, the first was held in 2021, th materials can be found on the main [Afew](https://github.com/fdd-eiu/afew) page. The second workshop was a refresher workshop held in early 2022 which reviewed material from our introductory workshop and material from the advanced workshop. The economics of fisheries licensing workshop will build on these and focus on the use of bio-economic models for licensing in regulated and restricted open-access fisheries and in particular focus on the economics of the relationship between coastal states and diostant water fishing fleets. We will also touch on approaches to the economics of fisheries allocations using allocation rules and claims rules and questions of fair divison.
+
 Breaks for morning (11:00am) and afternoon tea (3:30pm) and lunch (12:30pm) will occur
 
 Software set-up:
