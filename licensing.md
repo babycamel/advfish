@@ -74,7 +74,7 @@ Exercise access will be enabled prior to the workshop.
 -  Lunch
 - Practical exercises and discussion (Afternoon) ([Exercise 11 Colab notebook](https://colab.research.google.com/drive/1LUxFnx3xCXiCdynQ2OvXYUKUeg6N0dc8?usp=sharing))
 - Coffee break
-- Practical exercises and discussion (Afternoon) continued.
+- Practical exercises and discussion (Afternoon) continued ([Exercise 12 Colab notebook](https://colab.research.google.com/drive/1H7flNtJ2muqdyyH7kZPSbPgznxfRXQN_?usp=sharing))
 
 ## Day 3 (Wednesday)
 
