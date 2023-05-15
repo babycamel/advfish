@@ -48,7 +48,7 @@ Exercise access will be enabled prior to the workshop.
 
 #### Mini-Exercises on the Gordon-Schaefer Model
 
-- Review of [Notes on the Gordon-Schafer Model](https://github.com/fdd-eiu/afew/blob/main/notes-gordon-schaefer.pdf) (Morning)
+- Review of [Notes on the Gordon-Schaefer Model](https://github.com/fdd-eiu/afew/blob/main/notes-gordon-schaefer.pdf) (Morning)
 - [Exercise 1](https://colab.research.google.com/drive/1nAZzOBbcJJpLnCGZwRA_QY-DtRvNYxLo?usp=sharing)
 - [Exercise 2](https://colab.research.google.com/drive/1Whcl_O0Wf4eFO94iRNn5VJbzNF89MlUb?usp=sharing)
 - [Exercise 3](https://colab.research.google.com/drive/1BBquV0azxFjWxlc5DV6yVQ6_K-OJKKDd?usp=sharing)
