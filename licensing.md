@@ -32,7 +32,7 @@ Exercise access will be enabled prior to the workshop.
 
 [NumPy](https://numpy.org/doc/stable/user/absolute_beginners.html)
 
-[My Fisheries resources page](https://github.com/babycamel/resources/blob/master/fisheries-resources.md)
+[My fisheries resources page](https://github.com/babycamel/resources/blob/master/fisheries-resources.md) Just adding this here for people to see what else is out there.
 
 ## Day 1
 
