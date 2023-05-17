@@ -34,7 +34,7 @@ Exercise access will be enabled prior to the workshop.
 
 [My fisheries resources page](https://github.com/babycamel/resources/blob/master/fisheries-resources.md) Just adding this here for people to see what else is out there.
 
-## Day 1
+## Day 1 Review
 
 ### Morning
 
@@ -68,7 +68,7 @@ Exercise access will be enabled prior to the workshop.
 - Coffee break
 - Additonal analyses that can be performed (sensitivity analysis, gender impacts)
 
-## Day 2 (Tuesday)
+## Day 2 (Tuesday) Bilateral agreements
 
 - Background on the problem and [survey of literature](https://github.com/fdd-eiu/afew/blob/main/presentation-Literature.pdf) (Presentation and discussion)
 - Coffee break
@@ -78,15 +78,13 @@ Exercise access will be enabled prior to the workshop.
 - Coffee break
 - Practical exercises and discussion (Afternoon) continued ([Exercise 12 Colab notebook](https://colab.research.google.com/drive/1H7flNtJ2muqdyyH7kZPSbPgznxfRXQN_?usp=sharing))
 
-## Day 3 (Wednesday)
+## Day 3 (Wednesday) Multilateral agreements and regional model
 
 - N-country model presentation (Morning)
 - Derivation of demand for licenses
 - Determination of the optimal license fee
 - Some fair division: allocation and claims rules (Afternoon)
 - Discussion (Afternoon)
-
-
 
 ## Day 4 Empirical estimation of the N-country model and policy (Thursday)
 
