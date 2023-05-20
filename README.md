@@ -2,7 +2,7 @@
 
 Links to materials can be found here along with further instructions.
 
-[Second workshop](https://github.com/fdd-eiu/afew/blob/main/refresher.md)[Third workshop](https://github.com/fdd-eiu/afew/blob/main/licensing.md)
+[Second workshop](https://github.com/fdd-eiu/afew/blob/main/refresher.md)  [Third workshop](https://github.com/fdd-eiu/afew/blob/main/licensing.md)
 
 ## Preparation
 
