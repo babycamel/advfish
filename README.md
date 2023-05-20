@@ -121,7 +121,7 @@ Exercises will be completed in Jupyter notebooks. Jupyter notebooks are interact
 
 - Zonal affiliation
 
-- licensing models
+- [licensing models](https://github.com/fdd-eiu/afew/blob/main/licensing.md)
 
 ## Week 3
 
