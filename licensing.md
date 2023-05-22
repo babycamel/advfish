@@ -87,7 +87,9 @@ Exercise access will be enabled prior to the workshop.
 - N-country model [presentation](https://github.com/fdd-eiu/afew/blob/main/ncountry.pdf) (Morning)
 - Derivation of demand for licenses (presentation)
 - Determination of the optimal license fee (presentation)
+
 **Afternoon**
+
 - Some fair division: allocation and claims rules (presentation) 
 - Discussion (Afternoon)
 
@@ -99,6 +101,7 @@ Exercise access will be enabled prior to the workshop.
 - Discussion of policy results, consequences and problems
 
 **Afternoon**
+
 Own projects Workshop (Friday)
 - Exercise: Preparation of briefs on economic considerations for bilateral fishing access
 arrangements.
