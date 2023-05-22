@@ -76,7 +76,9 @@ Exercise access will be enabled prior to the workshop.
 - Coffee break
 - Coastal state vs distant water fleet licensing model (Presentation) ([Notes](https://github.com/fdd-eiu/afew/blob/main/two-countries.pdf)) ([Colab Notebook](https://colab.research.google.com/drive/1hcP5VxFf46tcvZkbpuINpTebgLF5K5e1?usp=sharing))
 -  Lunch
+
 **Afternoon**
+
 - Practical exercises and discussion (Afternoon) ([Exercise 11 Colab notebook](https://colab.research.google.com/drive/1LUxFnx3xCXiCdynQ2OvXYUKUeg6N0dc8?usp=sharing))
 - Coffee break
 - Practical exercises and discussion (Afternoon) continued ([Exercise 12 Colab notebook](https://colab.research.google.com/drive/1H7flNtJ2muqdyyH7kZPSbPgznxfRXQN_?usp=sharing))
