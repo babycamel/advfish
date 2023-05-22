@@ -38,7 +38,7 @@ Exercise access will be enabled prior to the workshop.
 
 ## Day 1 Review
 
-***Morning***
+**Morning**
 
 
 #### Warm-up exercise
