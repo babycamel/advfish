@@ -38,7 +38,7 @@ Exercise access will be enabled prior to the workshop.
 
 ## Day 1 Review
 
-### Morning
+***Morning***
 
 
 #### Warm-up exercise
@@ -63,7 +63,7 @@ Exercise access will be enabled prior to the workshop.
 
 - Lunch
 
-### Afternoon
+**Afternoon**
 
 - Empirical national bio-economic models (Afternoon)
 - [Exercise 8](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-present-6.ipynb)
@@ -71,21 +71,24 @@ Exercise access will be enabled prior to the workshop.
 - Additonal analyses that can be performed (sensitivity analysis, gender impacts)
 
 ## Day 2 (Tuesday) Bilateral agreements
-
+**Morning**
 - Background on the problem and [survey of literature](https://github.com/fdd-eiu/afew/blob/main/presentation-Literature.pdf) (Presentation and discussion)
 - Coffee break
 - Coastal state vs distant water fleet licensing model (Presentation) ([Notes](https://github.com/fdd-eiu/afew/blob/main/two-countries.pdf)) ([Colab Notebook](https://colab.research.google.com/drive/1hcP5VxFf46tcvZkbpuINpTebgLF5K5e1?usp=sharing))
 -  Lunch
+**Afternoon**
 - Practical exercises and discussion (Afternoon) ([Exercise 11 Colab notebook](https://colab.research.google.com/drive/1LUxFnx3xCXiCdynQ2OvXYUKUeg6N0dc8?usp=sharing))
 - Coffee break
 - Practical exercises and discussion (Afternoon) continued ([Exercise 12 Colab notebook](https://colab.research.google.com/drive/1H7flNtJ2muqdyyH7kZPSbPgznxfRXQN_?usp=sharing))
 
 ## Day 3 (Wednesday) Multilateral agreements and regional model
 
+**Morning**
 - N-country model [presentation](https://github.com/fdd-eiu/afew/blob/main/ncountry.pdf) (Morning)
-- Derivation of demand for licenses
-- Determination of the optimal license fee
-- Some fair division: allocation and claims rules (Afternoon)
+- Derivation of demand for licenses (presentation)
+- Determination of the optimal license fee (presentation)
+**Afternoon**
+- Some fair division: allocation and claims rules (presentation) 
 - Discussion (Afternoon)
 
 ## Day 4 Empirical estimation of the N-country model and policy (Thursday)
