@@ -1,6 +1,6 @@
 # The economics of fisheries licensing workshop ![FFA logo](https://github.com/fdd-eiu/afew/blob/main/logo.png)
 
-Funded by ![OFCF logo](https://github.com/fdd-eiu/afew/blob/main/rogoblue3.png)
+Funded by <img src=https://github.com/fdd-eiu/afew/blob/main/rogoblue3.png width = 50 nehigh= 100>
 
 ## June 5-8 2023
 
