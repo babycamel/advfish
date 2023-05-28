@@ -101,8 +101,10 @@ Exercise access will be enabled prior to the workshop.
 ## Day 4 Empirical estimation of the N-country model and policy (Thursday)
 
 **Morning**
-- Catch-effort estimation at the regional level.
-- National level implications of the regional model
+- Catch-effort estimation at the regional level (We will use the first part of the Notebook for Exercise 8).
+- National level implications of the regional model 
+    - using the demand for lcienses from the regional model
+    - using the optimal fee if time allows
 - Discussion of policy results, consequences and problems
 
 **Afternoon**
