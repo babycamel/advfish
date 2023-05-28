@@ -103,7 +103,7 @@ Exercise access will be enabled prior to the workshop.
 **Morning**
 - Catch-effort estimation at the regional level (We will use the first part of the Notebook for Exercise 8).
 - National level implications of the regional model 
-    - using the demand for lcienses from the regional model
+    - using the demand for licenses from the regional model
     - using the optimal fee if time allows
 - Discussion of policy results, consequences and problems
 
