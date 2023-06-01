@@ -113,5 +113,6 @@ Own projects Workshop (Friday)
 - Exercise: Preparation of briefs on economic considerations for bilateral fishing access
 arrangements.
 - Finishing off what you haven't understood and discussion.
-- Wrap-up
+- Wrap-up and closing 4:0pm
+- **Adjourn to FFA Social Club**
 
