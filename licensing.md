@@ -22,7 +22,7 @@ Also have a look at [Google Collaboratory](https://colab.research.google.com/) (
 
 Exercise access will be enabled prior to the workshop.
 
-## Additonal resources
+## Additional resources
 
 [SymPy tutorial](https://docs.sympy.org/latest/tutorials/intro-tutorial/index.html)
 
@@ -74,7 +74,7 @@ Exercise access will be enabled prior to the workshop.
 
 ## Day 2 (Tuesday) Bilateral agreements
 **Morning**
-- Continue with Bio-economic modelling exercise if necessat
+- Continue with Bio-economic modelling exercise if necessary
 - Background on the problem and [survey of literature](https://github.com/fdd-eiu/afew/blob/main/presentation-Literature.pdf) (Presentation and discussion)
 **Coffee break**
 - Coastal state vs distant water fleet licensing model and access fees (Presentation) ([Notes](https://github.com/fdd-eiu/afew/blob/main/two-countries.pdf)) ([Colab Notebook](https://colab.research.google.com/drive/1hcP5VxFf46tcvZkbpuINpTebgLF5K5e1?usp=sharing))
