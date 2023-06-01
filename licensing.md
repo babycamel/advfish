@@ -78,10 +78,16 @@ Exercise access will be enabled prior to the workshop.
 - Background on the problem and [survey of literature](https://github.com/fdd-eiu/afew/blob/main/presentation-Literature.pdf) (Presentation and discussion)
 **Coffee break**
 - Coastal state vs distant water fleet licensing model and access fees (Presentation) ([Notes](https://github.com/fdd-eiu/afew/blob/main/two-countries.pdf)) ([Colab Notebook](https://colab.research.google.com/drive/1hcP5VxFf46tcvZkbpuINpTebgLF5K5e1?usp=sharing))
+
 **Lunch 12:30pm**
+
 - Practical exercises and discussion (Afternoon) ([Exercise 11 Colab notebook](https://colab.research.google.com/drive/1LUxFnx3xCXiCdynQ2OvXYUKUeg6N0dc8?usp=sharing))
-- Coffee break
+
+**Coffee break 3:00pm**
+
 - Practical exercises and discussion (Afternoon) continued ([Exercise 12 Colab notebook](https://colab.research.google.com/drive/1H7flNtJ2muqdyyH7kZPSbPgznxfRXQN_?usp=sharing))
+
+**Adjourn to FFA Scoial Club 4:30pm**
 
 ## Day 3 (Wednesday) Multilateral agreements and regional model 9:00am
 
