@@ -89,8 +89,12 @@ Exercise access will be enabled prior to the workshop.
 ## Day 3 (Wednesday) Multilateral agreements and regional model
 
 **Morning**
-- N-country model [presentation](https://github.com/fdd-eiu/afew/blob/main/ncountry.pdf) (Morning)
-- Derivation of demand for licenses (presentation)
+- N-country model [presentation](https://github.com/fdd-eiu/afew/blob/main/ncountry.pdf)\]
+}
+) (Morning)
+- Derivation of demand for licenses [presentation](https://github.com/fdd-eiu/afew/blob/main/Derivation.pdf)\]
+}
+)
 - Determination of the optimal license fee (presentation)
 
 **Afternoon**
