@@ -22,7 +22,6 @@ Also have a look at [Google Collaboratory](https://colab.research.google.com/) (
 
 Exercise access will be enabled prior to the workshop.
 
-
 ## Additonal resources
 
 [SymPy tutorial](https://docs.sympy.org/latest/tutorials/intro-tutorial/index.html)
@@ -39,19 +38,17 @@ Exercise access will be enabled prior to the workshop.
 
 [My fisheries resources page](https://github.com/babycamel/resources/blob/master/fisheries-resources.md) Just adding this here for people to see what else is out there.
 
-## Day 1 Review
+## Day 1 Review arrive Heritage Park Hotel 9:00am
 
-**Morning**
+** Opening of Workshop by Mr, Nikai Naoki, Japan Industy Liaison, FFA.
 
-
-#### Warm-up exercise
+#### Warm-up exercise 9:30
 
 - [Introduction to Jupyter Notebooks and Jupyterlab](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb)
 - [Preliminary exercise 1](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-notebook-1.ipynb)
 - [Preliminary exercise 2](https://pandas.pydata.org/docs/user_guide/10min.html)
 
-- Morning coffee
-
+- Morning coffee 11:00am
 
 #### Mini-Exercises on the Gordon-Schaefer Model
 
@@ -59,51 +56,51 @@ Exercise access will be enabled prior to the workshop.
 - [Exercise 1](https://colab.research.google.com/drive/1nAZzOBbcJJpLnCGZwRA_QY-DtRvNYxLo?usp=sharing)
 - [Exercise 2](https://colab.research.google.com/drive/1Whcl_O0Wf4eFO94iRNn5VJbzNF89MlUb?usp=sharing)
 - [Exercise 3](https://colab.research.google.com/drive/1BBquV0azxFjWxlc5DV6yVQ6_K-OJKKDd?usp=sharing)
+
+- **Lunch 12:30**
+
 - [Exercise 4](https://colab.research.google.com/drive/1vhlEJmDh6iil8_qX-YKJaTyou_nvqYCA?usp=sharing) 
 - [Exercise 5](https://colab.research.google.com/drive/1v40yRbEMUQJV74NonGlidI7eCFhyeCPd?usp=sharing)
 - [Exercise 6](https://colab.research.google.com/drive/18erLNDS33FJfzC_Szyjnguq-mC7UhAco?usp=sharing)
 - [Exercise 7](https://colab.research.google.com/drive/1YqvQg6Z6FL0gQrSApecsZPyUWZhG6oVD?usp=sharing)
 
-- Lunch
-
-**Afternoon**
+- **Coffee Break 3:00 pm**
 
 - Empirical national bio-economic models (Afternoon)
 - [Exercise 8](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-present-6.ipynb)
-- Coffee break
 - Additonal analyses that can be performed (sensitivity analysis, gender impacts)
+**Close 4:30pm**  
+- Social event Heritage Park Pool Bar
 
 ## Day 2 (Tuesday) Bilateral agreements
 **Morning**
+- Continue with Bio-economic modelling exercise if necessat
 - Background on the problem and [survey of literature](https://github.com/fdd-eiu/afew/blob/main/presentation-Literature.pdf) (Presentation and discussion)
-- Coffee break
+**Coffee break**
 - Coastal state vs distant water fleet licensing model and access fees (Presentation) ([Notes](https://github.com/fdd-eiu/afew/blob/main/two-countries.pdf)) ([Colab Notebook](https://colab.research.google.com/drive/1hcP5VxFf46tcvZkbpuINpTebgLF5K5e1?usp=sharing))
--  Lunch
-
-**Afternoon**
-
+**Lunch 12:30pm**
 - Practical exercises and discussion (Afternoon) ([Exercise 11 Colab notebook](https://colab.research.google.com/drive/1LUxFnx3xCXiCdynQ2OvXYUKUeg6N0dc8?usp=sharing))
 - Coffee break
 - Practical exercises and discussion (Afternoon) continued ([Exercise 12 Colab notebook](https://colab.research.google.com/drive/1H7flNtJ2muqdyyH7kZPSbPgznxfRXQN_?usp=sharing))
 
-## Day 3 (Wednesday) Multilateral agreements and regional model
+## Day 3 (Wednesday) Multilateral agreements and regional model 9:00am
 
 **Morning**
-- N-country model [presentation](https://github.com/fdd-eiu/afew/blob/main/ncountry.pdf)
+- N-country model [presentation](https://github.com/fdd-eiu/afew/blob/main/ncountry.pdf) and discussion
 
-(Morning)
 - Derivation of demand for licenses [presentation](https://github.com/fdd-eiu/afew/blob/main/Derivation.pdf)
 
 - Determination of the optimal license fee (presentation)
 
-**Afternoon**
+**Lunch 12:30pm**
 
 - Some fair division: allocation and claims rules (presentation) 
 - Discussion (Afternoon)
 
-## Day 4 Empirical estimation of the N-country model and policy (Thursday)
+## Day 4 Empirical estimation of the N-country model and policy (Thursday) 9:00am
 
 **Morning**
+
 - Catch-effort estimation at the regional level (We will use the first part of the Notebook for Exercise 8).
 - National level implications of the regional model 
     - using the demand for licenses from the regional model
