@@ -40,7 +40,7 @@ Exercise access will be enabled prior to the workshop.
 
 ## Day 1 Review arrive Heritage Park Hotel 9:00am
 
-** Opening of Workshop by Mr, Nikai Naoki, Japan Industy Liaison, FFA.
+**Opening of Workshop by Mr, Nikai Naoki, Japan Industy Liaison, FFA.**
 
 #### Warm-up exercise 9:30
 
@@ -48,7 +48,7 @@ Exercise access will be enabled prior to the workshop.
 - [Preliminary exercise 1](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-notebook-1.ipynb)
 - [Preliminary exercise 2](https://pandas.pydata.org/docs/user_guide/10min.html)
 
-- Morning coffee 11:00am
+**Morning coffee 11:00am**
 
 #### Mini-Exercises on the Gordon-Schaefer Model
 
@@ -75,7 +75,9 @@ Exercise access will be enabled prior to the workshop.
 - Social event Heritage Park Pool Bar
 
 ## Day 2 (Tuesday) Bilateral agreements
+
 **Morning**
+
 - Continue with Bio-economic modelling exercise if necessary
 - Background on the problem and [survey of literature](https://github.com/fdd-eiu/afew/blob/main/presentation-Literature.pdf) (Presentation and discussion)
  
@@ -124,6 +126,8 @@ Own projects Workshop (Friday)
 - Exercise: Preparation of briefs on economic considerations for bilateral fishing access
 arrangements.
 - Finishing off what you haven't understood and discussion.
+
 **Wrap-up and closing 4:00pm-4:30pm**
+
 **Adjourn to FFA Social Club**
 
