@@ -118,6 +118,7 @@ Exercise access will be enabled prior to the workshop.
 - National level implications of the regional model 
     - using the demand for licenses from the regional model
     - using the optimal fee if time allows
+- [Exercise 13](https://colab.research.google.com/drive/17OJugbktoaypJ-aw_zfG4h9chhii7Vmz?usp=sharing)
 - Discussion of policy results, consequences and problems
 
 **Afternoon**
