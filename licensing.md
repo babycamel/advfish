@@ -69,14 +69,18 @@ Exercise access will be enabled prior to the workshop.
 - Empirical national bio-economic models (Afternoon)
 - [Exercise 8](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-present-6.ipynb)
 - Additonal analyses that can be performed (sensitivity analysis, gender impacts)
+
 **Close 4:30pm**  
+
 - Social event Heritage Park Pool Bar
 
 ## Day 2 (Tuesday) Bilateral agreements
 **Morning**
 - Continue with Bio-economic modelling exercise if necessary
 - Background on the problem and [survey of literature](https://github.com/fdd-eiu/afew/blob/main/presentation-Literature.pdf) (Presentation and discussion)
+ 
 **Coffee break**
+
 - Coastal state vs distant water fleet licensing model and access fees (Presentation) ([Notes](https://github.com/fdd-eiu/afew/blob/main/two-countries.pdf)) ([Colab Notebook](https://colab.research.google.com/drive/1hcP5VxFf46tcvZkbpuINpTebgLF5K5e1?usp=sharing))
 
 **Lunch 12:30pm**
@@ -92,6 +96,7 @@ Exercise access will be enabled prior to the workshop.
 ## Day 3 (Wednesday) Multilateral agreements and regional model 9:00am
 
 **Morning**
+
 - N-country model [presentation](https://github.com/fdd-eiu/afew/blob/main/ncountry.pdf) and discussion
 
 - Derivation of demand for licenses [presentation](https://github.com/fdd-eiu/afew/blob/main/Derivation.pdf)
@@ -119,6 +124,6 @@ Own projects Workshop (Friday)
 - Exercise: Preparation of briefs on economic considerations for bilateral fishing access
 arrangements.
 - Finishing off what you haven't understood and discussion.
-- Wrap-up and closing 4:00pm
-- **Adjourn to FFA Social Club**
+**Wrap-up and closing 4:00pm-4:30pm**
+**Adjourn to FFA Social Club**
 
