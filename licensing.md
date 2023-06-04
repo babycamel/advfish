@@ -109,7 +109,7 @@ Exercise access will be enabled prior to the workshop.
 
 **Lunch 12:30pm**
 
-- Some fair division: allocation and claims rules (presentation) 
+- Some fair division: allocation and claims rules ([presentation](https://github.com/fdd-eiu/afew/blob/main/fairness.pdf)) 
 - Discussion (Afternoon)
 
 ## Day 4 Empirical estimation of the N-country model and policy (Thursday) 9:00am
