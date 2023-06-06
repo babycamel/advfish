@@ -95,7 +95,7 @@ Exercise access will be enabled prior to the workshop.
 
 - Practical exercises and discussion (Afternoon) continued ([Exercise 12 Colab notebook](https://colab.research.google.com/drive/1H7flNtJ2muqdyyH7kZPSbPgznxfRXQN_?usp=sharing))
 
-**Adjourn to FFA Scoial Club 4:30pm**
+**Adjourn to FFA Social Club 4:30pm**
 
 ## Day 3 (Wednesday) Multilateral agreements and regional model 9:00am
 
@@ -112,7 +112,7 @@ Exercise access will be enabled prior to the workshop.
 - Some fair division: allocation and claims rules ([presentation](https://github.com/fdd-eiu/afew/blob/main/fairness.pdf)) 
 - Discussion (Afternoon)
 
-## Day 4 Empirical estimation of the N-country model and policy (Thursday) 9:00am
+## Day 4 Empirical estimation of the N-country model and policy (Thursday) 9:00am**
 
 **Morning**
 
