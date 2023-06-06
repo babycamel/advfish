@@ -69,7 +69,7 @@ Exercise access will be enabled prior to the workshop.
 - **Coffee Break 3:00 pm**
 
 - Empirical national bio-economic models (Afternoon)
-- [Exercise 8](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-present-6.ipynb)[Colab notebook](https://colab.research.google.com/drive/11iZbaozCfNynf2-vb8D8p-st7aJfiBme?usp=sharing)
+- [Exercise 8](https://nbviewer.org/github/fdd-eiu/afew/blob/main/afew-present-6.ipynb)[ Colab notebook](https://colab.research.google.com/drive/11iZbaozCfNynf2-vb8D8p-st7aJfiBme?usp=sharing)
 - Additonal analyses that can be performed (sensitivity analysis, gender impacts)
 
 **Close 4:30pm**  
